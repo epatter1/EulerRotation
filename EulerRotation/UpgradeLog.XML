@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="EulerRotation">
+</Property><Property Name="Solution File" Value="F:\BackupDriveF\myprograms\ComputerGraphics\EulerRotation\EulerRotation\EulerRotation.sln">
+</Property><Property Name="Date" Value="Tuesday, May 18, 2010">
+</Property><Property Name="Time" Value="0:10:52 AM">
+</Property></Properties><Event ErrorLevel="0" Project="EulerRotation" Source="EulerRotation.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="EulerRotation" Source="EulerRotation.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="EulerRotation" Source="EulerRotation.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

@@ -1,0 +1,51 @@
+F:\BackupDriveF\myprograms\ComputerGraphics\EulerRotation\EulerRotation\bin\Debug\EulerRotation.exe
+F:\BackupDriveF\myprograms\ComputerGraphics\EulerRotation\EulerRotation\bin\Debug\EulerRotation.pdb
+F:\BackupDriveF\myprograms\ComputerGraphics\EulerRotation\EulerRotation\obj\Debug\ResolveAssemblyReference.cache
+F:\BackupDriveF\myprograms\ComputerGraphics\EulerRotation\EulerRotation\obj\Debug\EulerRotation.Form1.resources
+F:\BackupDriveF\myprograms\ComputerGraphics\EulerRotation\EulerRotation\obj\Debug\EulerRotation.Properties.Resources.resources
+F:\BackupDriveF\myprograms\ComputerGraphics\EulerRotation\EulerRotation\obj\Debug\ResGen.read.1.tlog
+F:\BackupDriveF\myprograms\ComputerGraphics\EulerRotation\EulerRotation\obj\Debug\ResGen.write.1.tlog
+F:\BackupDriveF\myprograms\ComputerGraphics\EulerRotation\EulerRotation\obj\Debug\EulerRotation.exe
+F:\BackupDriveF\myprograms\ComputerGraphics\EulerRotation\EulerRotation\obj\Debug\EulerRotation.pdb
+E:\Courses\ITEC3450\ComputerGraphics\EulerRotation\EulerRotation\obj\Debug\EulerRotation.exe
+E:\Courses\ITEC3450\ComputerGraphics\EulerRotation\EulerRotation\obj\Debug\EulerRotation.pdb
+E:\Courses\ITEC3450\ComputerGraphics\EulerRotation\EulerRotation\bin\Debug\EulerRotation.exe
+E:\Courses\ITEC3450\ComputerGraphics\EulerRotation\EulerRotation\bin\Debug\EulerRotation.pdb
+E:\Courses\ITEC3450\ComputerGraphics\EulerRotation\EulerRotation\obj\Debug\ResolveAssemblyReference.cache
+E:\Courses\ITEC3450\ComputerGraphics\EulerRotation\EulerRotation\obj\Debug\EulerRotation.Form1.resources
+E:\Courses\ITEC3450\ComputerGraphics\EulerRotation\EulerRotation\obj\Debug\EulerRotation.Properties.Resources.resources
+E:\Courses\ITEC3450\ComputerGraphics\EulerRotation\EulerRotation\obj\Debug\GenerateResource-ResGen.read.1.tlog
+E:\Courses\ITEC3450\ComputerGraphics\EulerRotation\EulerRotation\obj\Debug\ResGen.read.1.tlog
+E:\Courses\ITEC3450\ComputerGraphics\EulerRotation\EulerRotation\obj\Debug\GenerateResource-ResGen.write.1.tlog
+E:\Courses\ITEC3450\ComputerGraphics\EulerRotation\EulerRotation\obj\Debug\ResGen.write.1.tlog
+L:\Courses\ITEC3450\2011 Summer\ComputerGraphics\EulerRotation\EulerRotation\obj\Debug\EulerRotation.exe
+L:\Courses\ITEC3450\2011 Summer\ComputerGraphics\EulerRotation\EulerRotation\obj\Debug\EulerRotation.pdb
+L:\Courses\ITEC3450\2011 Summer\ComputerGraphics\EulerRotation\EulerRotation\bin\Debug\EulerRotation.exe
+L:\Courses\ITEC3450\2011 Summer\ComputerGraphics\EulerRotation\EulerRotation\bin\Debug\EulerRotation.pdb
+L:\Courses\ITEC3450\2011 Summer\ComputerGraphics\EulerRotation\EulerRotation\obj\Debug\ResolveAssemblyReference.cache
+L:\Courses\ITEC3450\2011 Summer\ComputerGraphics\EulerRotation\EulerRotation\obj\Debug\EulerRotation.Form1.resources
+L:\Courses\ITEC3450\2011 Summer\ComputerGraphics\EulerRotation\EulerRotation\obj\Debug\EulerRotation.Properties.Resources.resources
+L:\Courses\ITEC3450\2011 Summer\ComputerGraphics\EulerRotation\EulerRotation\obj\Debug\GenerateResource-ResGen.read.1.tlog
+L:\Courses\ITEC3450\2011 Summer\ComputerGraphics\EulerRotation\EulerRotation\obj\Debug\ResGen.read.1.tlog
+L:\Courses\ITEC3450\2011 Summer\ComputerGraphics\EulerRotation\EulerRotation\obj\Debug\GenerateResource-ResGen.write.1.tlog
+L:\Courses\ITEC3450\2011 Summer\ComputerGraphics\EulerRotation\EulerRotation\obj\Debug\ResGen.write.1.tlog
+E:\Courses\ITEC3450\2011 Summer\ComputerGraphics\EulerRotation\EulerRotation\obj\Debug\EulerRotation.exe
+E:\Courses\ITEC3450\2011 Summer\ComputerGraphics\EulerRotation\EulerRotation\obj\Debug\EulerRotation.pdb
+C:\Users\epatter1\Documents\Graphics\Euler Rotation\EulerRotation\obj\Debug\EulerRotation.exe
+C:\Users\epatter1\Documents\Graphics\Euler Rotation\EulerRotation\obj\Debug\EulerRotation.pdb
+C:\Users\epatter1\Documents\Graphics\Euler Rotation\EulerRotation\bin\Debug\EulerRotation.exe
+C:\Users\epatter1\Documents\Graphics\Euler Rotation\EulerRotation\bin\Debug\EulerRotation.pdb
+C:\Users\epatter1\Documents\Graphics\Euler Rotation\EulerRotation\obj\Debug\EulerRotation.csprojResolveAssemblyReference.cache
+C:\Users\epatter1\Documents\Graphics\Euler Rotation\EulerRotation\obj\Debug\EulerRotation.Form1.resources
+C:\Users\epatter1\Documents\Graphics\Euler Rotation\EulerRotation\obj\Debug\EulerRotation.Properties.Resources.resources
+C:\Users\epatter1\Documents\Graphics\Euler Rotation\EulerRotation\obj\Debug\EulerRotation.csproj.GenerateResource.Cache
+C:\Users\epatter1\Documents\Visual Studio 2015\Projects\Euler Rotation\EulerRotation\obj\Debug\EulerRotation.exe
+C:\Users\epatter1\Documents\Visual Studio 2015\Projects\Euler Rotation\EulerRotation\obj\Debug\EulerRotation.pdb
+C:\Users\epatter1\Documents\Visual Studio 2015\Projects\Euler Rotation\EulerRotation\bin\Debug\EulerRotation.exe
+C:\Users\epatter1\Documents\Visual Studio 2015\Projects\Euler Rotation\EulerRotation\bin\Debug\EulerRotation.pdb
+C:\Users\epatter1\Documents\Visual Studio 2015\Projects\Euler Rotation\EulerRotation\obj\Debug\EulerRotation.csprojResolveAssemblyReference.cache
+C:\Users\epatter1\Documents\Visual Studio 2015\Projects\Euler Rotation\EulerRotation\obj\Debug\EulerRotation.Form1.resources
+C:\Users\epatter1\Documents\Visual Studio 2015\Projects\Euler Rotation\EulerRotation\obj\Debug\EulerRotation.Properties.Resources.resources
+C:\Users\epatter1\Documents\Visual Studio 2015\Projects\Euler Rotation\EulerRotation\obj\Debug\EulerRotation.csproj.GenerateResource.Cache
+C:\Users\epatter1\Documents\Visual Studio 2015\Projects\EulerRotation\EulerRotation\obj\Debug\EulerRotation.exe
+C:\Users\epatter1\Documents\Visual Studio 2015\Projects\EulerRotation\EulerRotation\obj\Debug\EulerRotation.pdb
